@@ -5,3 +5,4 @@ this is a master modify
 this is a feature modify
 fixed bug 101
 /e/GitDocument modify
+/d/GitDocument modify
